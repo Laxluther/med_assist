@@ -1,0 +1,11 @@
+
+streamlit
+langchain
+langchain-community
+huggingface_hub
+sentence-transformers
+chromadb
+pypdf
+ollama
+tiktoken
+torch
